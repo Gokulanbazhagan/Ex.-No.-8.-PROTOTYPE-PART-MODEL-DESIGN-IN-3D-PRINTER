@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![8](https://github.com/Aakashraj04/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121117266/794ec70f-6c83-4923-9d1a-56b1f2f30eec)
+
+
+### Name: Gokularamanan k
+### Register Number: 212222230040
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
